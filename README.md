@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/bagalvish" target="blank"><img src="https://img.shields.io/twitter/follow/bagalvish?logo=twitter&style=for-the-badge" alt="bagalvish" /></a> </p>
 
-- 🌱 I’m currently learning **Recipe to build Startup**
-
 - 👨‍💻 All of my projects are available at [https://github.com/vsbagal](https://github.com/vsbagal)
 
 - 💬 Ask me about **Data Science**
